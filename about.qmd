@@ -2,4 +2,4 @@
 title: "Hello"
 ---
 
-About this site
+About this site is my initial effort to create my journey with Data Science. 
